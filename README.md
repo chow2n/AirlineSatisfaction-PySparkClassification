@@ -1,3 +1,3 @@
 # AirlineSatisfaction-PySparkClassification
 
-fd
+In this project, I use big data analytic tools to preprocess and transform a large dataset that consists of 22 columns and over 100,000 observations/rows. The goal of this project was to find what model is the best fit and what variables affect customer satisfaction the most. Everything is annotated and demonstrates the purpose of each line of code. I created graphs and charts to show the correlation levels between several variables and satisfaction levels. After, I used Chi-Square selector to find the best features from the dataset to create the models. After that, I used GridSearch to hypertune the parameters in order to train the models to the highest accuracy possible.
